@@ -17,4 +17,21 @@ Dataset terdiri dari gambar makanan cepat saji dalam beberapa kategori. Setiap k
  # Lisensi
  Bebas digunakan untuk Edukasi dan penelitian
 
+# Struktur Direktory Proyek
+ fastfood-cnn/<br>
+├── dataset/<br>
+│   ├── train/<br>
+│   ├── val/<br>
+│   └── test/<br>
+├── models/<br>
+│   └── cnn_model.h5<br>
+├── notebooks/<br>
+│   └── fastfood_cnn_training.ipynb<br>
+├── src/<br>
+│   ├── dataloader.py<br>
+│   ├── model.py<br>
+│   └── train.py<br>
+├── README.md<br>
+└── requirements.txt<br>
+
 
