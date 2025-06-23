@@ -14,4 +14,7 @@ Dataset terdiri dari gambar makanan cepat saji dalam beberapa kategori. Setiap k
  <li>NumPy</li>
  <li>matplotlib</li>
 
+ # Lisensi
+ Bebas digunakan untuk Edukasi dan penelitian
+
 
